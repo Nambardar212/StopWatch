@@ -27,7 +27,7 @@ body{
 .d2{
     margin-left: 0;
     display: flex;
-    /* justify-content: center; */
+    justify-content: center;
     padding-top: 20px;
 }
 #start{
@@ -38,7 +38,7 @@ body{
     padding: 20px;
     font-size: 20px;
     margin-top: 10px;
-    margin-left: 140px;
+    margin-left: 10px;
 }
 #pause{
     background-color: blue;
